@@ -1,0 +1,20 @@
+li {
+    display:table-cell;
+  }
+  
+  span {
+    font-size:48px;
+    display:block;
+  }
+  
+  .bg {
+    position:fixed;
+    background:url("https://static.wixstatic.com/media/e2a289_56cedbe09d24419ab141bff7a4546e4c~mv2.jpg/v1/fill/w_1358,h_1258,al_c,q_85,usm_0.66_1.00_0.01/e2a289_56cedbe09d24419ab141bff7a4546e4c~mv2.webp") center center;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    background-size:cover;
+    z-index:-1;
+  }
+  
